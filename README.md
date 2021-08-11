@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Olá, seja bem vindo. Sou o Jean Carlos 👋
+### Olá!!! Eu sou o Jean Carlos 👋
 
 <div>
   <a href="https://github.com/rafaballerini">
