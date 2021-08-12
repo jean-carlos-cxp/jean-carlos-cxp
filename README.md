@@ -31,7 +31,7 @@
   </div>
   
 <div>
-    ![Snake animation](https://github.com/jean-carlos-cxp/jean-carlos-cxp/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jean-carlos-cxp/jean-carlos-cxp/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 
