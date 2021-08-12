@@ -30,10 +30,6 @@
     <img align="center" alt="Jean-JS" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </div>
   
-<div>
-  ![Snake animation](https://github.com/jean-carlos-cxp/jean-carlos-cxp/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
 
 
 
