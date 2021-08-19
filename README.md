@@ -12,7 +12,7 @@
 ### Olá!!! Eu sou o Jean Carlos 👋
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/jean-carlos-cxp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-carlos-cxp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-carlos-cxp&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -25,6 +25,8 @@
     <img align="center" alt="Jean-HTML" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jean-CSS" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jean-JS" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   
+    ![Snake animation](https://github.com/jean-carlos-cxp/jean-carlos-cxp/blob/output/github-contribution-grid-snake.svg)
   </div>
   
 
