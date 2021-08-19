@@ -26,7 +26,7 @@
     <img align="center" alt="Jean-CSS" height="35" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jean-JS" height="35" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    
-    ![Snake animation](https://github.com/jean-carlos-cxp/jean-carlos-cxp/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/jean-carlos-cxp/jean-carlos-cxp/blob/output/github-contribution-grid-snake.svg);
   </div>
   
 
