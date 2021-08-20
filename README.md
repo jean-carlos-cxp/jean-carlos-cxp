@@ -26,6 +26,7 @@
     <img align="center" alt="Jean-CSS" height="35" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jean-JS" height="35" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    
+   <img align="center" alt="Cobrinha-Game-gif" src="https://github.com/jean-carlos-cxp/jean-carlos-cxp/blob/output/github-contribution-grid-snake.svg">
   </div>
   
 
