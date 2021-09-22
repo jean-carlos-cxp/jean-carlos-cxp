@@ -21,7 +21,7 @@
 
  <div style="display: inline_block"><br>
     <img align="center" alt="Jean-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Jean-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="Jean-Spring" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
     <img align="center" alt="Jean-C#" height="35" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Jean-HTML" height="35" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jean-CSS" height="35" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -31,9 +31,15 @@
   ##
   
  <div>
-    <a href="https://www.linkedin.com/in/jean-carlos-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-           badge&logo=linkedin&logoColor=white" height="30" width="130" target="_blank"></a> 
-    <a href="https://instagram.com/jean_carlos.96" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-   badge&logo=instagram&logoColor=white" height="30" width="130" target="_blank"></a>
-    <a href = "jean.silva0096@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100"   target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jean-carlos-ti" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="130" target="_blank">
+    </a>
+    <a href="https://instagram.com/jean_carlos.96" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" width="130" target="_blank">
+    </a>
+    <a href="mailto:jean.silva0096@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" target="_blank">
+    </a>
       
    <img align="center" alt="Cobrinha-Game-gif" src="https://github.com/jean-carlos-cxp/jean-carlos-cxp/blob/output/github-contribution-grid-snake.svg">
  </div>
