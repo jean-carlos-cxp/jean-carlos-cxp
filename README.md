@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Olá!!! Eu sou o Jean Carlos 👋 #
+### Olá, seja bem vindo!!! Eu sou o Jean Carlos 👋 #
 ● 🤵 Tenho 25 anos.<br>
 ● 😄 Pronouns: ele/dele.<br>
 ● 👨‍🎓 Estou me formando em Análise e Desenvolvimento de Sistemas.<br>
