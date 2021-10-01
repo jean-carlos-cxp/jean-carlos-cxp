@@ -9,7 +9,13 @@
 - ⚡ Fun fact: ...
 -->
 
-### Olá!!! Eu sou o Jean Carlos 👋
+### Olá!!! Eu sou o Jean Carlos 👋 #
+● 🤵 Tenho 25 anos.<br>
+● 😄 Pronouns: ele/dele.<br>
+● 👨‍🎓 Estou me formando em Análise e Desenvolvimento de Sistemas.<br>
+● 👀 Estou Estudando frequentemente para me tornar um Desenvolvedor Full-Stack.<br>
+● 🌱 Atualmente eu estudo Java com Spring Boot e C# com .NetCore.<br>
+● 💻 Também gosto praticar criando layouts de tela e principalmente integrar REST API com banco de dados.<br>
 
 <div>
   <a href="https://github.com/jean-carlos-cxp">
