@@ -17,7 +17,7 @@
 ● 🌱 Atualmente eu estudo Java com Spring Boot e C# com .NetCore.<br>
 ● 💻 Também gosto praticar criando layouts de tela e principalmente integrar REST API com banco de dados.<br>
 
-<div>
+<div align="center">
   <a href="https://github.com/jean-carlos-cxp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-carlos-cxp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-carlos-cxp&layout=compact&langs_count=7&theme=dark"/>
